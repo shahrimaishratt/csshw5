@@ -1,0 +1,22 @@
+.main .save span{
+    background-color: red;
+    color: white;
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 0 15px 15px 0;
+    /* border-radius: 0 5% 5% 0; */
+}
+
+
+.main
+{
+    width: 300px;
+    border: 1px solid black;
+}
+
+.main .image img{
+    width: 100%;
+}
+
